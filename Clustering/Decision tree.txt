@@ -1,0 +1,4 @@
+3 types
+CART(rpart)- for classification
+RFM- for continuous or classification
+CHAID-For classification
